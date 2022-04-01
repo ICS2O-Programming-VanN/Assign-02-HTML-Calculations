@@ -1,1 +1,2 @@
 # Assign-02-HTML-Calculations
+[![GitHub's Super Linter](https://github.com/ICS2O-Programming-VanN/Assign-02-HTML-Calculations/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS2O-Programming-VanN/Assign-02-HTML-Calculations/actions)
