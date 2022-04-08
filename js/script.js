@@ -17,7 +17,7 @@ function calculate () {
   let lateralSegment = 2 * Math.PI * radius * height; // Calculates Surface area of the Cylindrical Segment
   let surfaceArea = lateralSegment + bases;
 
-  // output
+  // Outputs calculations of Surface Area and Volume
   document.getElementById('surface-area').innerHTML = 'The surface area of the cylinder is ' + surfaceArea.toFixed(2) + units + '²';
 	document.getElementById('lateral-segment').innerHTML = 'The volume of the cylinder ' + volume.toFixed(2) + units + '³';
 }
