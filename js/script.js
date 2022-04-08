@@ -14,7 +14,7 @@ function calculate () {
   let volume = Math.PI * (radius ** 2) * height; // Calculates Volume
 	
   let bases = 2 * Math.PI * (radius ** 2); // // Calculates Surface area of the bases
-  let lateralSegment = 2 * Math.PI * radius * height; // Calculates Surface area of the Cylindrical Segment
+  let lateralSegment = 2 * Math.PI * radius * height; // Calculates Surface area of the Lateral Segment
   let surfaceArea = lateralSegment + bases;
 
   // Outputs calculations of Surface Area and Volume
