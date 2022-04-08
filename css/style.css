@@ -1,0 +1,40 @@
+/* Color, text alignment, Font */
+
+h1 {
+	background-color: rgb(220, 28, 19);
+	padding: 40px;
+	text-align: center;
+	font-weight: bold;
+	font-family: "Times New Roman", Times, serif;
+}
+
+body {
+	background-color: rgb(168, 255, 255);
+}
+
+h4 {
+	font-weight: bold;
+  color: #7e29ff;
+}
+
+main {
+	text-align: center;
+	font-weight: bold;
+}
+
+th {
+	text-align: center;
+}
+
+p {
+	background-color: #f5f299;
+	text-align: center;
+	font-weight: bold;
+	text-decoration: underline;
+  color: #7e29ff;
+}
+
+.input {
+	text-align: center;
+}
+
